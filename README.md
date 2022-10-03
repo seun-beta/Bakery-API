@@ -95,7 +95,7 @@ An Inventory and Process Management tool for a bakery.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
- - Run `git clone https://github.com/seun-beta/Bakery-Inventory-Management-System` to clone the project locally.
+ - Run `git clone https://github.com/seun-beta/Bakery-API` to clone the project locally.
  - Create a local postgres database locally and add it's url to the DATBASE_URL env variable.
  - Run `pip install -r requirements/development.txt`
  - Run migration with `python manage.py migrate`.
